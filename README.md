@@ -6,10 +6,14 @@
 </p>
 
 - 🎓 I completed my **B.Tech from IKGPTU Main Campus**, Kapurthala, Punjab.  
-- 📊 I have completed hands-on training in **Data Science, Python, Excel, and Machine Learning** from **Dr. Reddy's Foundation**, Bangalore.  
-- 🤖 Proficient in **Scikit-learn**, **pandas**, **NumPy**, **matplotlib**, **seaborn**, and **Power BI** for real-world data analysis and predictive modeling.  
-- ☕ I also learned **Core Java** through the **Anudip Foundation** to strengthen backend and logic-building capabilities.  
-- 💻 Completed a **Full Stack Development training** at **Ducat, Gurgaon**, which gave me a strong foundation in web technologies.  
+- 📊 Completed **hands-on training in Data Science, Python, Excel, and Machine Learning** from **Dr. Reddy's Foundation**, Bangalore.  
+- 📚 Completed **Data Analysis course on Udemy**, focusing on Python (Pandas, NumPy, Matplotlib, Seaborn), exploratory data analysis (EDA), and reporting.  
+- 📉 Proficient in **Power BI** and **Excel** for dashboard building, data cleaning, and KPI analysis.  
+- 🤖 Skilled in **Scikit-learn**, **pandas**, **NumPy**, **matplotlib**, **seaborn**, and **Jupyter Notebook** for real-world data analysis and predictive modeling.  
+- 🧠 Currently working on **Customer Behavior and Sales Optimization Analysis**, using **Machine Learning**, **Churn Prediction**, and **Forecasting** models.  
+- ☕ Learned **Core Java**, **JDBC**, **Hibernate**, and backend logic building through **Anudip Foundation**.  
+- 💻 Completed **Full Stack Development training** at **Ducat, Gurgaon**, learning **MongoDB**, **Express.js**, **React.js**, and **Node.js (MERN stack)**.  
+- 🛠️ Experienced with **Web development** using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, and **Redux Toolkit**.  
 - 📍 I'm originally from **Varanasi, Uttar Pradesh**.
 
 - 👨‍💻 Explore my work & projects here: [My Portfolio](https://protfolio11-theta.vercel.app/)
@@ -47,8 +51,9 @@
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" width="60" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
@@ -56,6 +61,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
